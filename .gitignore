@@ -2,3 +2,5 @@ test/
 lib/
 out/
 cache/
+test/echidna/corpus
+crytic-export/

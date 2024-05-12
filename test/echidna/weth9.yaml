@@ -1,0 +1,5 @@
+testMode: assertion
+testLimit: 50000
+seqLen: 100
+corpusDir: test/echidna/corpus
+balanceContract: 120000000000000000000000000 # 120M ether
